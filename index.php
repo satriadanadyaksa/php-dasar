@@ -1,4 +1,4 @@
-php_check_syntax
+<?php
 
-
-echo "latihan github"
+echo "Latihan github"
+?>
